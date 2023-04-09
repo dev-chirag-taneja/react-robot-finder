@@ -1,6 +1,6 @@
 import React from "react";
 
-import CardItem from "./cardItem";
+import CardItem from "./CardItem";
 
 const CardList = ({ filteredItem }) => {
   return (

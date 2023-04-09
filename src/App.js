@@ -5,7 +5,7 @@ import "bootstrap/dist/js/bootstrap.bundle.min";
 
 import "./App.css";
 import SearchBar from "./components/SearchBar";
-import CardList from "./components/cardList";
+import CardList from "./components/CardList";
 
 const App = () => {
   const [searchItem, setSearchItem] = useState("");
