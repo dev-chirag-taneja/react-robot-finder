@@ -9,7 +9,7 @@
 - git clone https://github.com/dev-chirag-taneja/robot-finder-v2.git
 
 # Go to directory
-- cd react-robot-finder
+- cd robot-finder
 
 # Install dependencies
 - npm install
